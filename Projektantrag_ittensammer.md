@@ -25,4 +25,4 @@ Es existiert bereits ein Online Browserspiel names "skribbl.io", indem es darum 
 
  
 #### skribbl:
-<img src="images/skribbl.jpg" alt="skribbl">
+<img src="http://assets.funnygames.us/games/assets/screenshots/3/94203/83553/skribbl-io-oss-354261.jpg?r=1487060151615" alt="skribbl">
